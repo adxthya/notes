@@ -127,3 +127,7 @@ url = "https://github.com/adxthya"
 [[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/adxthyax"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
