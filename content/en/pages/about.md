@@ -2,7 +2,6 @@
 title: About
 description: About the notes
 author: Adithya K B
-toc:
 ---
 <img src="https://github.com/adxthya.png" width="150" alt="avatar"/>
 
