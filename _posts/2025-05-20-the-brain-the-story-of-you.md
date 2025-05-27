@@ -70,7 +70,7 @@ As the name suggests, the book is focused on how the brain works, what the brain
 Outside your brain, there is just energy and matter. Over millions of years of evolution the human brain has become adept at turning this energy and matter into a rich sensory experience of being in the world. How?
 ### The Illusion of Reality
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrainden.com%2Fimages%2Fstatic1-big.jpg&f=1&nofb=1&ipt=b52a9046af8c74daada588ff64bc6b7daa526ccac7faae8406370800bd7e05b0" width=400/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrainden.com%2Fimages%2Fstatic1-big.jpg&f=1&nofb=1&ipt=b52a9046af8c74daada588ff64bc6b7daa526ccac7faae8406370800bd7e05b0" alt="Static image moving illusion" width=400/>
 
 - The image appears to be moving even tho it is static.
 - Illusions like these gives us the hint that our picture of external world is not very accurate.
