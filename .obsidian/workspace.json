@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-20-the-brain-the-story-of-you.md",
+                "file": "_posts/2024-12-11-nixos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20-the-brain-the-story-of-you"
+              "title": "2024-12-11-nixos"
             }
           }
         ]
@@ -170,30 +170,32 @@
   },
   "active": "a02bbb95622877c5",
   "lastOpenFiles": [
+    "_site/assets/img/tech/nixos/hyprland-nix.png",
+    "assets/img/tech/nixos/hyprland-nix.png",
+    "_site/assets/img/tech/nixos/shell.png",
+    "assets/img/tech/nixos/shell.png",
+    "_site/assets/img/tech/nixos/icon.png",
+    "assets/img/tech/nixos/icon.png",
+    "_posts/2025-05-20-the-brain-the-story-of-you.md",
+    "_posts/2024-12-11-nixos.md",
+    "_site/assets/img/tech/nixos/gnome-nix.webp",
+    "assets/img/tech/nixos/gnome-nix.webp",
+    "_site/categories/tech/index.html",
+    "_site/categories/tech",
+    "_site/categories/rywqueyrue/index.html",
+    "_site/categories/rywqueyrue",
+    "_site/categories/rywqu/index.html",
+    "_site/categories/rywqu",
+    "_site/categories/r/index.html",
+    "_site/categories/r",
+    "_site/categories/e/index.html",
+    "_site/categories/e",
+    "_site/assets/img/tech/nixos/nixos.webp",
+    "assets/img/tech/nixos/nixos.webp",
+    "_site/assets/nixos.webp",
     "_tabs/archives.md",
     "_tabs/about.md",
     "README.md",
-    "_tabs/categories.md",
-    "_posts/2025-05-20-the-brain-the-story-of-you.md",
-    "_site/tags/book/index.html",
-    "_site/tags/book",
-    "_site/tags/science/index.html",
-    "_site/tags/science",
-    "_site/tags/neuroscience/index.html",
-    "_site/tags/neuroscience",
-    "_site/assets/img/books/neuroscience/the_brain/colors.jpeg",
-    "_site/assets/img/books/neuroscience/the_brain",
-    "_site/assets/img/books/neuroscience",
-    "_site/assets/img/books",
-    "assets/img/books/neuroscience/the_brain/colors.jpeg",
-    "assets/img/books/neuroscience/the_brain",
-    "_site/assets/img/favicons/web-app-manifest-512x512.png",
-    "_site/assets/img/favicons/web-app-manifest-192x192.png",
-    "_site/assets/img/favicons/favicon.svg",
-    "_site/assets/img/favicons/favicon-96x96.png",
-    "assets/img/favicons/web-app-manifest-512x512.png",
-    "assets/img/favicons/apple-touch-icon.png",
-    "assets/img/favicons/favicon.svg",
-    "assets/img/favicons/favicon-96x96.png"
+    "_tabs/categories.md"
   ]
 }
