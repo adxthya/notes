@@ -14,20 +14,20 @@ description: Personal notes I made from reading The Brain by David Eagleman
 ---
 As the name suggests, the book is focused on how the brain works, what the brain is capable of and how it influences and to what extent it controls us. There are topics and information in this book that might seem unbelievable and makes you wonder whether if you are really in control or are you just a puppet of your brain. These are the short notes I prepared from each chapter of the book.
 ## <u>Who am I?</u>
-- Who we are is found in the firing patterns of electrochemical pulses of the brain.
-- When that activity changes character, due to injury or drugs, you change character in lockstep.
-- If you damage even a small part of your brain, It can change you radically.
+- Who we are is found in the firing patterns of electrochemical pulses of the brain.  
+- When that activity changes character, due to injury or drugs, you change character in lockstep.  
+- If you damage even a small part of your brain, it can change you radically.
 ### Born Unfinished
-- Unlike many other animals, humans are helpless at birth. We take a year to walk and maybe 2 years to articulate thoughts.
-- Other animals becomes independent as soon as they are born. This may seem like an advantage but the trade off is flexibility. They have a prearranged brain and can't adapt to conditions like us.
+- Unlike many other animals, humans are helpless at birth. We take a year to walk and maybe two years to articulate thoughts.  
+- Other animals become independent as soon as they are born. This may seem like an advantage, but the trade-off is flexibility. They have a prearranged brain and can’t adapt to conditions like we can.
 - Our brain is **LiveWIred**
 ### ChildHood Pruning
-- The flexibility of young brains is because a baby's neurons are unconnected. At first two years of life, they start connecting up rapidly.
-- By age two, a child has over one hundred trillion synapses, double the number an adult has.
-- Synapses that actively participate in a circuit stays and those which are not useful is eliminated.
+- The flexibility of young brains is because a baby’s neurons are unconnected. In the first two years of life, they start connecting up rapidly.  
+- By age two, a child has over one hundred trillion synapses—double the number an adult has.  
+- Synapses that actively participate in a circuit stay, and those which are not useful are eliminated.
 ### Nature's Gamble
-- If a child is deprived of emotional care, support and stimulation( not basic needs like being fed ), They develop "indiscriminate friendliness" and might show signs of underdeveloped brains.
-- A proper environment is really necessary for a child's development. If left ignored in the earlier stages of their life, They develop differing levels of developmental problems.
+- If a child is deprived of emotional care, support, and stimulation (not basic needs like being fed), they develop “indiscriminate friendliness” and might show signs of underdeveloped brains.  
+- A proper environment is really necessary for a child’s development. If left ignored in the earlier stages of their life, they develop differing levels of developmental problems.
 ### The Teen Years
 - The process of building a human brain takes up around 25 years.
 - The major change during teen hood is the emerging sense of self and with itself, **self-consciousness**.
