@@ -12,7 +12,8 @@ tags:
   - railway
 description: How to create a host a discord bot using python and railway
 ---
-
+>Make sure the python script is running and the bot is up before trying out the commands
+{: .prompt-warning }
 ## Installing the dependencies
 For creating the discord bot and for its functionalities, we are going to use the following libraries :
 - discord.py - Wrapper around the discord API
