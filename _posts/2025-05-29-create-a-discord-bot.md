@@ -10,7 +10,7 @@ tags:
   - bot
   - beatprints
   - railway
-description: How to create a host a discord bot using python and railway
+description: How to create and host a discord bot using python and railway
 ---
 >Make sure the python script is running and the bot is up before trying out the commands
 {: .prompt-warning }

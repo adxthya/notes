@@ -12,7 +12,7 @@ tags:
   - book
 description: Personal notes I made from reading The Brain by David Eagleman
 ---
-As the name suggests, the book is focused on how the brain works, what the brain is capable of and how it influences and to what extent it controls us. There are topics and information in this book that might seem unbelievable and makes you wonder whether if you are really in control or are you just a puppet of your brain. These are the short notes I prepared from each chapter of the book.
+As the name suggests, the book is focused on how the brain works, what the brain is capable of and how it influences and to what extent it controls us. There are topics and information in this book that might seem unbelievable and make you wonder whether you are really in control or just a puppet of your brain. These are the short notes I prepared from each chapter of the book.
 ## <u>Who am I?</u>
 - Who we are is found in the firing patterns of electrochemical pulses of the brain.  
 - When that activity changes character, due to injury or drugs, you change character in lockstep.  
@@ -30,30 +30,30 @@ As the name suggests, the book is focused on how the brain works, what the brain
 - A proper environment is really necessary for a child’s development. If left ignored in the earlier stages of their life, they develop differing levels of developmental problems.
 ### The Teen Years
 - The process of building a human brain takes up around 25 years.
-- The major change during teen hood is the emerging sense of self and with itself, **self-consciousness**.
-- Teens tend to be more anxious about self than adults. This had to with an area of the brain called medial prefrontal cortex(mPFC).
+- The major change during the teen years is the emerging sense of self and, with itself, **self-consciousness**.
+- Teens tend to be more anxious about self than adults. This is related to an area of the brain called the medial prefrontal cortex(mPFC).
 - The mPFC peaks at the age of 15. That is, during adolescence, self-evaluation is a high priority.
-- The adults becoming accustomed with this feeling over the years.
-- Just before puberty, The brain goes through a stage of overproduction where it trims down weaker connection and stronger connections are reinforced. This reduces the volume of prefrontal cortex by 1%.
+- Adults become accustomed to this feeling over the years.
+- Just before puberty, The brain goes through a stage of overproduction, trimming  weaker connections and reinforcing stronger ones. This reduces the volume of prefrontal cortex by 1%.
 - Because these massive changes take place in brain areas required for higher reasoning and the control of urges, adolescence is a time of steep cognitive change.
-- The teen brain is set up to take risks but the obitofrontal cortex involved in decision making and attention is same as in children.
+- The teen brain is set up to take risks, but the obitofrontal cortex involved in decision making and attention is similar to that in children.
 - Peer pressure strongly compels behavior in teens: areas involved in social considerations (such as the mPFC) are more strongly coupled to other brain regions that translate motivations into actions
 - Who we are as a teenager is not simply the result of a choice or an attitude; it is the product of a period of intense and inevitable neural change.
 ### Plasticity in Adulthood
 - By the time we are 25, Our brain appears to be fully developed. But the brain can still change with experiences and retains the change.
-- When the brain of Albert Einstein was examined, The brain area devoted to his left fingers had expanded due to his less commonly known passion for playing the violin.
+- When Albert Einstein's brain was examined, The brain area devoted to his left fingers had expanded due to his lesser-known passion for playing the violin.
 ### Pathological Changes
 - Can disease change our brain?
-- On August 1st 1966, Charles Whitman fired and killed 25 people and was finally shot dead by the police. Upon later inspection, it was found the he also killed his wife and mother the night before.
+- On August 1st 1966, Charles Whitman fired and killed 25 people and was finally shot dead by the police. Upon later inspection, it was found that he had also killed his wife and mother the night before.
 - He was an Eagle Scout, he was employed as a bank teller, and he was an engineering student.
-- It was later found out that he had a tumour in his head that was pressing against the **Amygdala** - which is involved in fear and aggression, resulting in him taking these actions.
+- It was later discovered that he had a tumour in his head pressing against the **Amygdala** - which is involved in fear and aggression, resulting in him taking these actions.
 - Parkinson’s disease often makes people lose their faith, while the medication for Parkinson’s can often turn people into compulsive gamblers.
 ### Am I The Sum of My Memories?
 - Our bodies and brains are actively changing. Within about seven years every atom in your body will be replaced by other atoms.
 - Your memory of who you were at fifteen is different to who you actually were at fifteen; moreover, you’ll have different memories that relate back to the same events.
-- You memory of an event can get muddied since there is only a finite number of neurons. The brain only remembers some key points from the event. But you may feel like you have the full picture. The present also influences your past memories.
+- Your memory of an event can get muddied since there is only a finite number of neurons. The brain only remembers some key points from the event. But you may feel like you have the full picture. The present also influences your past memories.
 ### The Fallibility of Memory
-- False memories can implanted into a person. For this an experiment was conducted by Professor Elizabeth Loftus at University of California, Irvine where she told a made up story to the volunteers with plausible details from their pasts. Many claimed they could remember this happening. As time went by they claimed remembering more about this.
+- False memories can be implanted into a person. For this an experiment was conducted by Professor Elizabeth Loftus at University of California, Irvine where she told a made up story to the volunteers with plausible details from their pasts. Many claimed they could remember this happening. As time went by they claimed remembering more about this.
 - Our past is not a faithful record. Instead it’s a reconstruction, and sometimes it can border on mythology. So if your answer to who you are is based simply on your memories, that makes your identity something of a strange, ongoing, mutable narrative.
 - In the same way that your environment and behavior shape your brain when you’re younger, they are just as important in your later years.
 - **Page 28 has a great story**
@@ -121,7 +121,7 @@ Outside your brain, there is just energy and matter. Over millions of years of e
 - Hanna Bosley experiences colors when she looks at letters. For her J is purple and T is red. Similarly a color is associated with every letter. She has a perceptual experience known as synesthesia.
 - Synesthesia is a condition in which senses (or in some cases concepts) are blended. There are many different kinds of synesthesia. Some taste words. Some see sounds as colors.
 ### Believing what our brains tell us
-- People experiencing schizophrenic episode, it never strucks to them that something is strange. Because they believes the narrative told by the sum of their brain chemistry.
+- People experiencing schizophrenic episode, it never struck to them that something is strange. Because they believes the narrative told by the sum of their brain chemistry.
 ### TimeWrap
 - The way our brain experience time can also be strange. In some situations, Our reality runs more slowly or more quickly.
 - The subjective experience of time slowing has been reported in a variety of life-threatening experiences.
@@ -263,7 +263,7 @@ Outside your brain, there is just energy and matter. Over millions of years of e
 - We can also interpret the signals from the brain which can in turn be used to control robotic arms which enables people to move the arm as if it's their own through their thought.
 - It's not just limited to this. At some point in future, we might become able to control machinery with our mind. They will just like an extra limb.
 ### Stayin’ alive
-- The author discusses about cryopreservation. It is when the body of a dead person is frozen and stored in the hope that in future humanity will create a technology powerful enough to revive them.
+- The author discusses cryopreservation. It is when the body of a dead person is frozen and stored in the hope that in future humanity will create a technology powerful enough to revive them.
 ### Digital immortality
 - We might at some point future be able to copy a human brain to a computer.
 ### Does consciousness require the physical stuff?
