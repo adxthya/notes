@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-20-the-brain-the-story-of-you.md",
+                "file": "_posts/2024-12-11-nixos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20-the-brain-the-story-of-you"
+              "title": "2024-12-11-nixos"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "a02bbb95622877c5",
   "lastOpenFiles": [
+    "_posts/2025-05-20-the-brain-the-story-of-you.md",
     "_posts/2025-05-29-create-a-discord-bot.md",
     "_posts/2024-12-11-nixos.md",
     "_posts/2025-03-01-tinkherhack.md",
@@ -193,7 +194,6 @@
     "_site/tags/web",
     "_site/tags/tinkerhub/index.html",
     "_site/tags/tinkerhub",
-    "_posts/2025-05-20-the-brain-the-story-of-you.md",
     "_tabs/archives.md",
     "_tabs/about.md",
     "README.md",
